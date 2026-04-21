@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import libraries: sklearn, numpy, matplotlib
+2. Load dataset (hours vs marks)
+3. Create linear regression model
+4. Train model using .fit()
+5. Predict marks using .predict()
+6. Display predicted result
 
 ## Program:
 ```
